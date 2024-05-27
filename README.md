@@ -1,5 +1,15 @@
-# Bootcamp Elizabeth Feinler
+# Tests
 
-Ce repo a vocation à centraliser toutes les solutions des exercices entamées ou terminées par les apprenant·es Elizabeth pendant les 2 premiers jours du bootcamp alternance.
+## Setup project
 
-Amusez-vous !
+```
+npm install
+```
+
+## Run tests
+
+### With watch mode, coverage and Vitest UI
+
+```
+npm test
+```
