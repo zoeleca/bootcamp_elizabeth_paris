@@ -1,4 +1,4 @@
-import { fizzBuzz } from "./fizzbuzz";
+import { fizzBuzz } from "./fizzBuzz";
 
 export function fizzBuzzArray(numArray: number[]) {
   const newArray = numArray.map((number) => {
